@@ -3,3 +3,14 @@ body{
   padding: 0px;
   box-sizing: border-box;
 }
+
+h1{
+  font-family: serif;
+  font-size: 54px;
+  text-align: center;
+}
+
+p{
+  font-size: 35px;
+  text-align: center;
+}
